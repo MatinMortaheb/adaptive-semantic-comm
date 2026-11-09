@@ -1,0 +1,12 @@
+torch>=2.1
+torchvision>=0.16
+timm>=0.9          # needed by the WITT code (timm.models.layers)
+pytorch-msssim>=1.0
+numpy
+pandas
+matplotlib
+pyyaml
+pillow>=10         # JPEG / JPEG2000 / WebP baselines (JPEG2000 needs Pillow built with OpenJPEG)
+scipy
+transformers>=4.40
+tqdm
