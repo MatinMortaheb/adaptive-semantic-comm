@@ -1,6 +1,6 @@
 # Adaptive Transformer-Aided Semantic Communication with Multi-Resolution Encoding
 
-Code for the TinyImageNet experiments of
+Code for the experiments of
 
 > M. Mortaheb, M. A. Khojastepour, and S. Ulukus, "Adaptive Transformer-Aided Semantic Communication with Multi-Resolution Encoding," *npj Wireless Technology* (2026).
 
