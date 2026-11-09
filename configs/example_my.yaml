@@ -1,0 +1,4 @@
+# Copy to configs/my.yaml and edit. Values here override configs/default.yaml.
+data:
+  root: /path/to/tiny-imagenet-200   # contains train/, val/ (val_annotations.txt), wnids.txt
+# device: cuda
